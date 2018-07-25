@@ -1,0 +1,2 @@
+commitar tudo com mensagem
+git commit -am"mensagem"
