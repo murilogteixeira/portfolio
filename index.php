@@ -1,3 +1,7 @@
+<?php
+  Header( "HTTP/1.1 301 Moved Permanently" );
+  Header( "Location: http://murilot.xyz/" );
+?>
 <!DOCTYPE html>
 <html lang="en">
 
