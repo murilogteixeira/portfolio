@@ -147,6 +147,14 @@ a:hover, a:focus, a:active {
   color: #0B3B0B;
 }
 
+* {
+  box-sizing: border-box;
+}
+
+.projects {
+  margin: auto;
+}
+
 .row {
   margin: 8px -16px;
 }
@@ -173,7 +181,13 @@ a:hover, a:focus, a:active {
   text-align: center;
 }
 
-@media screnn and (max-width: 900px) {
+@media screen and (max-width: 1200px) {
+  .column {
+    width: 33.33%;
+  }
+}
+
+@media screen and (max-width: 1000px) {
   .column {
     width: 50%;
   }
@@ -190,6 +204,5 @@ a:hover, a:focus, a:active {
 }
 
 .text-project {
-  font-size: 80%;
   text-align: justify;
 }
