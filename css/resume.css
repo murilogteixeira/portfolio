@@ -146,3 +146,50 @@ a {
 a:hover, a:focus, a:active {
   color: #0B3B0B;
 }
+
+.row {
+  margin: 8px -16px;
+}
+
+.row,
+.row > .column {
+  padding: 8px;
+}
+
+.column {
+  float: left;
+  width: 25%;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.content {
+  background-color: white;
+  padding: 10px;
+  text-align: center;
+}
+
+@media screnn and (max-width: 900px) {
+  .column {
+    width: 50%;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
+
+.img-project{
+  border-radius: 20%;
+}
+
+.text-project {
+  font-size: 80%;
+  text-align: justify;
+}
