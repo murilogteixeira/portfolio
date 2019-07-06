@@ -13,7 +13,7 @@
       gtag('config', 'UA-143314653-1');
     </script>
 
-    <link rel="canonical" href="https://murilot.xyz/"/> 
+    <link rel="canonical" href="https://murilot.xyz/"/>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="description" content="">
