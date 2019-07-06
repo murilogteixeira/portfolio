@@ -19,7 +19,7 @@
     <meta name="description" content="">
     <meta name="author" content="">
 
-    <title>Murilo Teixeira hh</title>
+    <title>Murilo Teixeira</title>
 
     <!-- Bootstrap core CSS -->
     <link href="./vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
