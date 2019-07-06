@@ -164,7 +164,7 @@
             <div class="resume-content mr-auto">
               <h3 class="mb-0">UCB - Universidade Católica de Brasília</h3>
               <div class="subheading mb-3">Bacharelado em Ciência da Computaçâo</div>
-              <div>Cursando 6º semestre - 2019/2</div>
+              <div>Cursando 6º semestre</div>
               <!-- <p>GPA: 3.23</p> -->
             </div>
             <div class="resume-date text-md-right">
