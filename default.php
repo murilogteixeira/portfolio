@@ -70,6 +70,9 @@
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#education">Formação</a>
           </li>
+          <li class="nav-item">
+            <a class="nav-link js-scroll-trigger" href="#https://blog.murilot.xyz">Blog</a>
+          </li>
         </ul>
       </div>
     </nav>
