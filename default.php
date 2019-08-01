@@ -62,10 +62,10 @@
             <a class="nav-link js-scroll-trigger" href="#about">Sobre</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#experience">Experiencias</a>
+            <a class="nav-link js-scroll-trigger" href="#projects">Projetos</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll-trigger" href="#projects">Projetos</a>
+            <a class="nav-link js-scroll-trigger" href="#experience">Experiencias</a>
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="#education">Formação</a>
@@ -126,25 +126,6 @@
         </div>
       </section>
 
-      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
-        <div class="my-auto">
-          <h2 class="mb-5">Experiências</h2>
-
-          <div class="resume-item d-flex flex-column flex-md-row mb-5">
-            <div class="resume-content mr-auto">
-              <h3 class="mb-0">Desenvolvedor iOS</h3>
-              <div class="subheading mb-3">Developer Academy - UCB</div>
-              <p>Desenvolvimento de aplicativos e jogos para iOS (iPhone, iPad, AppleWatch e AppleTV) utilizando a linguagem Swift e as tecnologias mais atuais desenvolvidas pela Apple.</p>
-            </div>
-            <div class="resume-date text-md-right">
-              <span class="text-primary">Fevereiro 2019 - Hoje</span>
-            </div>
-          </div>
-		
-        </div>
-
-      </section>
-
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="projects">
         <div class="my-auto">
           <h2 class="mb-5">Projetos</h2>
@@ -165,6 +146,25 @@
               </div>
           </div>
         </div>
+      </section>
+
+      <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
+        <div class="my-auto">
+          <h2 class="mb-5">Experiências</h2>
+
+          <div class="resume-item d-flex flex-column flex-md-row mb-5">
+            <div class="resume-content mr-auto">
+              <h3 class="mb-0">Desenvolvedor iOS</h3>
+              <div class="subheading mb-3">Developer Academy - UCB</div>
+              <p>Desenvolvimento de aplicativos e jogos para iOS (iPhone, iPad, AppleWatch e AppleTV) utilizando a linguagem Swift e as tecnologias mais atuais desenvolvidas pela Apple.</p>
+            </div>
+            <div class="resume-date text-md-right">
+              <span class="text-primary">Fevereiro 2019 - Hoje</span>
+            </div>
+          </div>
+		
+        </div>
+
       </section>
 
       <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="education">
